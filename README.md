@@ -14,9 +14,13 @@ Our system can automatically detect when a car enters the parking space, the loc
 parking spot, and precisely charge the parking fee and associate this with the license plate
 number. Through the intelligent algorithm, we can significantly reduce the cost of existing
 systems, while achieving a more adaptable solution. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+**BLOCK DIAGRAM**
 ![](relatedimages/BLOCK%20DIAGRAM.PNG)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+**HARDWARE SETUP**
 ![](relatedimages/OUTPUT.PNG)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+**BOOK YOUR LOT- ANDROID APP**
 ![](relatedimages/APP%20OUTPUT.PNG)
 
