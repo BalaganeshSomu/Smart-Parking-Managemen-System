@@ -1,4 +1,4 @@
-# Smart-Parking-Managemen-System
+# **Smart-Parking-Managemen-System**
 
 Parking and space management are some of the major issues faced by all the developing
 countries across the globe. Catering this problem our “Smart Parking Management System”
