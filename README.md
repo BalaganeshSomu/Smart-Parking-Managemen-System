@@ -4,6 +4,7 @@ Parking and space management are some of the major issues faced by all the devel
 countries across the globe. Catering this problem our “Smart Parking Management System”
 will help the busy commuters to block a parking spot or drive-in directly with minimal interaction
 and waiting time.
+![](relatedimages/BLOCK%20DIAGRAM.PNG)
 To balance the cost and service quality, we propose to monitor the parking lot through an
 efficient system. An app will be developed to help the commuters to book parking in advance.
 Specifically we deploy the use of two cameras to capture license plate numbers and their
@@ -16,5 +17,7 @@ number. Through the intelligent algorithm, we can significantly reduce the cost 
 systems, while achieving a more adaptable solution. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **IMAGES RELATED TO PROJECT:**
-
+BOOK YOUR LOT - ANDROID APP
 ![](relatedimages/APP%20OUTPUT.PNG)
+HARDWARE SETUP
+![](relatedimages/OUTPUT.PNG)
