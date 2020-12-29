@@ -16,5 +16,6 @@ number. Through the intelligent algorithm, we can significantly reduce the cost 
 systems, while achieving a more adaptable solution. 
 ![](relatedimages/BLOCK%20DIAGRAM.PNG)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](relatedimages/APP%20OUTPUT.PNG)
 ![](relatedimages/OUTPUT.PNG)
+![](relatedimages/APP%20OUTPUT.PNG)
+
