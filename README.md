@@ -1,4 +1,4 @@
-# **Smart-Parking-Managemen-System**
+# **Smart-Parking-Management-System**
 
 Parking and space management are some of the major issues faced by all the developing
 countries across the globe. Catering this problem our “Smart Parking Management System”
@@ -16,5 +16,5 @@ number. Through the intelligent algorithm, we can significantly reduce the cost 
 systems, while achieving a more adaptable solution. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **IMAGES RELATED TO PROJECT:**
-![](RELATED IMAGES/APP OUTPUT.PNG)
+![](relatedimages/APP OUTPUT.PNG)
 ![](relatedimages/image2.PNG)
