@@ -15,3 +15,6 @@ parking spot, and precisely charge the parking fee and associate this with the l
 number. Through the intelligent algorithm, we can significantly reduce the cost of existing
 systems, while achieving a more adaptable solution. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+**IMAGES RELATED TO PROJECT:**
+![](relatedimages/image1.PNG)
+![](relatedimages/image2.PNG)
