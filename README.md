@@ -17,4 +17,4 @@ systems, while achieving a more adaptable solution.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **IMAGES RELATED TO PROJECT:**
 
-![](relatedimages/APP%20OUTPUT.png)
+![](relatedimages/APP%20OUTPUT.PNG)
